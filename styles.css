@@ -519,6 +519,21 @@ textarea.input {
   background-color:   black;
   border-radius: 15px;
 }
+@media (max-width: 475px) {
+  .images{
+    width: 12%;
+    height: 20%;
+    position: absolute;
+    bottom: -380px;
+    right: 100px;
+  }
+  .Aboutme p{
+  font-size: 17px;
+  margin-left: 25px;
+  margin-right: 30px;
+}
+
+}
 .Aboutme p{
   font-size: 25px;
   margin-left: 25px;
