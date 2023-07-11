@@ -519,7 +519,7 @@ textarea.input {
   background-color:   black;
   border-radius: 15px;
 }
-@media (max-width: 475px) {
+@media (max-width: 500px) {
   .images{
     width: 12%;
     height: 20%;
